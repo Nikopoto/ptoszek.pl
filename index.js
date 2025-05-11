@@ -8,6 +8,7 @@
   - https://github.com/feross/TheAnnoyingSite.com/
 
   Contact with me: https://jaczup.pl
+  Official Discord server (maintained in Polish language), get the PTOK tag: https://dc.ptoszek.pl
 
   Contributors:
     @jaczup - https://github.com/jaczup
@@ -94,7 +95,8 @@ const FILE_DOWNLOADS = [
   'media/images/zimowyptoszek.jpeg', // added by @dan64iel
   'media/images/zlyptok.jpeg', //added by @imzeme
   'media/images/grubyptok.jpg', //added by @imzeme
-  'media/images/ptokzjajami.jpeg' //added by @MARECKIyt
+  'media/images/ptokzjajami.jpeg', //added by @MARECKIyt
+  'media/images/ptiszka.jpg',
 ]
 
 const PHRASES = [
